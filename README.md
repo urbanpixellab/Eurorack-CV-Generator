@@ -8,3 +8,9 @@ This allows to expose eurorack properties which are cv controlled to control the
 
 ![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/schematic8out.png)
 ![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/board8out.png)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_131455_s.jpg)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_160717_s.jpg)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_160726_s.jpg)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_160745_s.jpg)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_160958_s.jpg)
+![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/20191201_161005_s.jpg)

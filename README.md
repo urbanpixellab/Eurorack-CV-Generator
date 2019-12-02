@@ -2,9 +2,13 @@
 
 ## Create control voltages from 0 - 5v for eurorack with potentiometers.
 This allows to expose eurorack properties which are cv controlled to control the from another controller and make the synthesizer more user adjustable.
+Big thanks to Joris Epstein Henke, for support with the schematic.
+
 =======
 # Idea
-### make an hardware cv generator for eurorack, like a midicontroler for computer effects but instead with cv for eurorack synthesizers
+make an hardware cv generator for eurorack, like a midicontroler for computer effects but instead with cv for eurorack synthesizers
+
+
 
 this means 8 outputchannels daisychainable schematic and board for multiple of 8 outputs
 ![alt text](https://github.com/urbanpixellab/Eurorack-CV-Generator/blob/master/Images/schematic8out.png)
